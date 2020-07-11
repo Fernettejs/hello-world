@@ -1,5 +1,5 @@
 # hello-world
-The go-to for ideas and the basics
+Just a little about me. 
 
 Hello All, 
 
