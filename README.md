@@ -7,4 +7,4 @@ I am currently Public Safety Officer (police and firefighter) who wants to code.
 
 # What I Learned
 
-* Developed a user interface within the xml file using RelativeLayout, ListView, EditText, & Button.
+* How to create a repository and use GitHub. 
